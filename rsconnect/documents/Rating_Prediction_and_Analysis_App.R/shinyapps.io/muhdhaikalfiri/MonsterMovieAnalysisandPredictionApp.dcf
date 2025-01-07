@@ -1,0 +1,12 @@
+name: MonsterMovieAnalysisandPredictionApp
+title: MonsterMovieAnalysisandPredictionApp
+username: muhdhaikalfiri
+account: muhdhaikalfiri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13672982
+bundleId: 9614645
+url: https://muhdhaikalfiri.shinyapps.io/MonsterMovieAnalysisandPredictionApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
