@@ -1,6 +1,6 @@
 # Monster Movie Analysis App
 
-This is a Shiny web application that analyzes and visualizes data on monster movies. The app provides insights into the distribution of genres, average ratings, trends over time, and more. It also includes a predictive model to estimate movie ratings based on runtime and number of votes.
+This is a Shiny web application that analyzes and visualizes data on monster moviesbuilt using **R programming** and the **Shiny** framework. The app provides insights into the distribution of genres, average ratings, trends over time, and more. It also includes a predictive model to estimate movie ratings based on runtime and number of votes.
 
 ## Features
 - **Genre Distribution**: View the most common genres for monster movies.
