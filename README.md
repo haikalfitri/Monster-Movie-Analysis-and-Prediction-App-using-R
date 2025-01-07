@@ -14,17 +14,13 @@ This is a Shiny web application that analyzes and visualizes data on monster mov
 - **Correlation Matrix**: Explore the correlation between runtime, number of votes, and average rating.
 - **Model Predictions**: Predict the rating of a movie based on its runtime and number of votes using a linear regression model.
 
-## Installation
-
-To run this app locally, follow these steps:
-
-1. Install the necessary packages. You can install them by running:
-
-```r
-install.packages(c("shiny", "shinydashboard", "tidytuesdayR", "dplyr", "ggplot2", "tidytext", "stopwords", "wordcloud", "RColorBrewer", "DT", "corrplot", "tidyr", "scales"))
-```
 
 <p align="center">
   <img src="https://github.com/haikalfitri/Monster-Movie-Analysis-and-Prediction-App-using-R/blob/main/asset/ss%20monster%20movie%20analysis.png" alt="First Page" width="600" />
 </p>
 <p align="center"><strong>Preview</strong></p>
+
+To view the live project, click [here]([https://your-shinyapp-link.shinyapps.io/monster_movie_analysis_app/](https://muhdhaikalfiri.shinyapps.io/MonsterMovieAnalysisandPredictionApp/)).
+
+## Data
+The app uses the TidyTuesday dataset from October 29, 2024, which contains information about monster movies, including their genres, ratings, votes, runtimes, and more. The data is loaded and processed using tidytuesdayR.
