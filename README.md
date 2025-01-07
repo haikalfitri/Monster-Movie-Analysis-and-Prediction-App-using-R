@@ -2,6 +2,8 @@
 
 This is a Shiny web application that analyzes and visualizes data on monster movies built using **R programming** and the **Shiny** framework. The app provides insights into the distribution of genres, average ratings, trends over time, and more. It also includes a predictive model to estimate movie ratings based on runtime and number of votes.
 
+To view the live project, lick [here](https://muhdhaikalfiri.shinyapps.io/MonsterMovieAnalysisandPredictionApp/).
+
 ## Features
 - **Genre Distribution**: View the most common genres for monster movies.
 - **Rating Distribution**: Explore the distribution of average ratings for monster movies.
@@ -19,8 +21,6 @@ This is a Shiny web application that analyzes and visualizes data on monster mov
   <img src="https://github.com/haikalfitri/Monster-Movie-Analysis-and-Prediction-App-using-R/blob/main/asset/ss%20monster%20movie%20analysis.png" alt="First Page" width="600" />
 </p>
 <p align="center"><strong>Preview</strong></p>
-
-To view the live project, click [here](https://muhdhaikalfiri.shinyapps.io/MonsterMovieAnalysisandPredictionApp/).
 
 ## Data
 
