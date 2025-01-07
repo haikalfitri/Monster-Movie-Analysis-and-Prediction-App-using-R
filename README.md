@@ -23,4 +23,6 @@ This is a Shiny web application that analyzes and visualizes data on monster mov
 To view the live project, click [here](https://muhdhaikalfiri.shinyapps.io/MonsterMovieAnalysisandPredictionApp/).
 
 ## Data
-The app uses the TidyTuesday dataset from October 29, 2024, which contains information about monster movies, including their genres, ratings, votes, runtimes, and more. The data is loaded and processed using tidytuesdayR.
+
+The dataset for this project is sourced from [TidyTuesday](https://github.com/rfordatascience/tidytuesday).
+
