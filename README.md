@@ -26,3 +26,6 @@ To view the live project, click [here](https://muhdhaikalfiri.shinyapps.io/Monst
 
 The dataset for this project is sourced from [TidyTuesday](https://github.com/rfordatascience/tidytuesday).
 
+```r
+citation("tidytuesdayR")
+
